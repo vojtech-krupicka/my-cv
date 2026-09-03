@@ -4,7 +4,7 @@
 
 **Senior Software Engineer / Backend Developer**
 
-Software Engineer / Backend Developer with 17 years of industry experience, including nearly 14 years as a member of the development team for Seznam.cz's Mapy.com (formerly Mapy.cz) map application. Achievements, among other projects, included working with large volumes of geospatial data (using PostGIS, GDAL, OGR, ...), contributing to the development of software for the Panorama Car (Python, C++), developing and maintaining a bug-reporting system for routing end-user feedback to the helpdesk (PHP, Python), building a platform for managing, validating, and serving user-uploaded media handling hundreds of requests/second (Python, Flask, RPC, PostgreSQL, CDN), and developing automated pipelines based on machine learning and AI/LLM models (Python, TensorFlow, ONNX, PyTorch, NumPy). This work was planned using Agile & Scrum and relied on CI/CD for deploying components across multiple environments using GitLab CI, Docker and Kubernetes. Earlier in his career, contributed to the founding development of the Smartsupp instant messaging application and a CMS for the Sportisimo.cz e-commerce platform.
+Software Engineer / Backend Developer with 17 years of industry experience, including nearly 14 years as a member of the development team for Seznam.cz's Mapy.com (formerly Mapy.cz) map application. Achievements, among other projects, included working with large volumes of geospatial data (using PostGIS, GDAL, OGR, ...), contributing to the development of software for the Panorama Car (Python, C++), developing and maintaining a bug-reporting system for routing end-user feedback to the helpdesk (PHP, Python), building a platform for managing, validating, and serving user-uploaded media handling hundreds of requests/second (Python, Flask, RPC, PostgreSQL, CDN), and developing automated pipelines based on machine learning and AI/LLM models (Python, TensorFlow, ONNX, PyTorch, NumPy). This work was planned using Agile & Scrum and relied on CI/CD for deploying components across multiple environments using GitLab CI, Docker and Kubernetes. Earlier career experience includes founding development work on the Smartsupp instant-messaging application and a CMS for the Sportisimo.cz e-commerce platform.
 
 ---
 
@@ -29,13 +29,13 @@ Software Engineer / Backend Developer with 17 years of industry experience, incl
 - Processed global digital elevation models (DEMs, 200GB+ source data), wrote scripts for generating better hillshades and contours lines
 - Built a pipeline generating and storing 15M+ contour lines (1.5TB) across the globe using GDAL, OGR, and PostGIS
 - Built a backend service for on-demand computing of elevation profiles across multi-point routes from multiple DEM sources
-- Collaborated with Teiresiás MU on Mapnik styles and street abbreviations for tactile maps (Haptické Mapy) 
+- Collaborated with the Teiresias Centre (Masaryk University) on Mapnik styles and street abbreviations for tactile maps (Haptické Mapy)
 
 **Internal Tools & Emerging Tech**
 
 - Built a pipeline for automated text translations from multiple sources via AI/LLM models (2025 – 2026)
 - Built a Kafka consumer pipeline for transactional email notifications (2025)
-- Solo developer and maintainer of the Mapy.com end-user bug tracking system using external MantisBT — including new plugins (PHP Full-stack), and components connecting frontends with MantisBT (Python, PostgreSQL) for the entire Mapy.com issue-reporting system — connecting the helpdesk to end-user feedback loops with a Mantis BT 1.3 → 2.x migration and MySQL → PostgreSQL migration(2014 – 2026)
+- Solo developer and maintainer of the Mapy.com end-user bug tracking system using external MantisBT — including new plugins (PHP Full-stack), and components connecting frontends with MantisBT (Python, PostgreSQL) for the entire Mapy.com issue-reporting system — connecting the helpdesk to end-user feedback loops with a Mantis BT 1.3 → 2.x migration and MySQL → PostgreSQL migration (2014 – 2026)
 - Contributed to the distributed rendering system of map tiles from multiple data sources (PostgreSQL, shapefiles, DEMs, mapnik styles) with distribution of final data (500GB+ per version) to production servers (2013); then co-rewrote it in 2017 (as a part of 4-person team), which reduced map tiles update time from weeks to days
 
 **DevOps & Miscellaneous**
@@ -60,11 +60,11 @@ Software Engineer / Backend Developer with 17 years of industry experience, incl
 - **Languages:** Python (3.10+, daily use), PHP 7.4, C++17, C#/.NET (Unity), Web (HTML, CSS, JavaScript), Go/Lua (basics)
 - **Databases/Storage:** PostgreSQL (daily), MySQL, ETCD, MongoDB and Redis (basics)
 - **Infrastructure:** Git, CI/CD (GitLab CI, Jenkins), Docker, Kubernetes, Kafka, Prometheus, Grafana, Apache/nginx configuration
-- **ML/AI:** TensorFlow, ONNX, PyTorch, NumPy, scikit-image (applied); working knowledge of LLM-based tooling/prompting (Claude Cowork/Code)
-- **Frameworks:** Flask, Jinja, FastAPI, Nette, Boost, wxWidgets, Qt, poetry, uWSGI
+- **ML/AI:** TensorFlow, ONNX, PyTorch, NumPy, scikit-image (applied); working knowledge of LLM-based tooling/prompting
+- **Frameworks:** Flask, uWSGI, poetry, Jinja, FastAPI, Nette, Boost, wxWidgets, Qt
 - **Geospatial Tools:** PostGIS, GDAL, OGR, QGIS, Mapnik
 - **Operating Systems:** Debian Linux, Windows
-- **Methodologies:** Agile, Scrum, YouTrack, Trello
+- **Methodologies:** Agile & Scrum (YouTrack, Trello)
 
 ---
 
